@@ -1,8 +1,4 @@
-# FiveM StreetRaces
+# SantosRP2 Street Racing Script
 
-FiveM resource for street races with custom checkpoints and HUD.
+FiveM resource for street races with custom checkpoints and HUD. This code was forked from https://github.com/bepo13/FiveM-StreetRaces.
 
-## Installation
-
-1. Add the StreetRaces folder to your FiveM resources directory
-2. Edit your server.cfg and add "start StreetRaces"
